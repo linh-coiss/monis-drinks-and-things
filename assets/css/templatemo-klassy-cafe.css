@@ -118,7 +118,7 @@ p {
 /* 
 ---------------------------------------------
 global styles
---------------------------------#7da18f------------- 
+--------------------------------#FF3EB5------------- 
 */
 html,
 body {
@@ -234,7 +234,7 @@ header
 }
 
 .background-header .nav li a.active {
-  color: #7da18f!important;
+  color: #FF3EB5!important;
 }
 
 .header-area {
@@ -322,12 +322,12 @@ header
 
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
-  color: #7da18f!important;
+  color:#FF3EB5!important;
 }
 
 .background-header .main-nav .nav li:hover a,
 .background-header .main-nav .nav li a.active {
-  color: #7da18f!important;
+  color: #FF3EB5!important;
   opacity: 1;
 }
 
@@ -1485,7 +1485,7 @@ footer
 footer {
   margin-top: 60px;
   padding: 50px 0px;
-  background-color: #7da18f;
+  background-color: #FF3EB5;
 }
 
 footer .left-text-content p {
