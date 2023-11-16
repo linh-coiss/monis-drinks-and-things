@@ -968,22 +968,23 @@ menu
   padding: 30px 30px 20px 30px;
   font-size: 20px;
   font-weight: 700;
-  color: #fff;
+  color:#FF3EB5;
 }
 
 .description {
   padding: 0px 30px;
-  color: #fff;
+  color:#FF3EB5;
 }
 
 #menu .price h6 {
   position: absolute;
   width: 70px;
   height: 70px;
-  background-color: #4a7729;
+  background-color: #212322
+;
   font-size: 20px;
   font-weight: 700;
-  color: #fff;
+  color: #FF3EB5;
   border-radius: 3px;
   text-align: center;
   line-height: 70px;
